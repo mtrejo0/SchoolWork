@@ -1,0 +1,1 @@
+{('semaphore', 'six', 'papering', 'quadrantal', 'bull', 'do', 'zing', 'velocity', 'pole', 'solider'), ('semaphore', 'six', 'papering', 'quadrantal', 'bulldozing', 'velocity', 'pole', 'solider'), ('semaphore', 'six', 'papering', 'quadrantal', 'bull', 'dozing', 'velocity', 'pole', 'solider')}

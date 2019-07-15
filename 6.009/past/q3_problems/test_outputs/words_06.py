@@ -1,0 +1,1 @@
+{('challenge', 'tissues', 'grippes', 'rivulets', 'odium', 'par', 'ties'), ('challenge', 'tissues', 'grippes', 'rivulets', 'odium', 'parties'), ('challenge', 'tissues', 'grippes', 'rivulet', 'sodium', 'parties'), ('challenge', 'tissues', 'grippes', 'rivulet', 'sodium', 'par', 'ties')}

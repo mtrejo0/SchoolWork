@@ -1,0 +1,11 @@
+[[{"class": quiz.Walker, "position": 0, "id_num": 6021}],
+
+[{"class": quiz.Walker, "position": 2, "id_num": 6021}],
+
+[{"class": quiz.Walker, "position": 4, "id_num": 6021}],
+
+[{"class": quiz.Walker, "position": 6, "id_num": 6021}],
+
+[{"class": quiz.Walker, "position": 8, "id_num": 6021}],
+
+[{"class": quiz.Walker, "position": 10, "id_num": 6021}]]
